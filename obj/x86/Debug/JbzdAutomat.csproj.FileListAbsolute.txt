@@ -1,0 +1,14 @@
+C:\Users\ShadeHero\Documents\Projects\JbzdAutomat\JbzdAutomat\bin\Debug\JbzdAutomat.exe
+C:\Users\ShadeHero\Documents\Projects\JbzdAutomat\JbzdAutomat\bin\Debug\JbzdAutomat.pdb
+C:\Users\ShadeHero\Documents\Projects\JbzdAutomat\JbzdAutomat\bin\Debug\Colorful.Console.dll
+C:\Users\ShadeHero\Documents\Projects\JbzdAutomat\JbzdAutomat\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ShadeHero\Documents\Projects\JbzdAutomat\JbzdAutomat\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\ShadeHero\Documents\Projects\JbzdAutomat\JbzdAutomat\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\ShadeHero\Documents\Projects\JbzdAutomat\JbzdAutomat\bin\Debug\System.Xml.XPath.dll
+C:\Users\ShadeHero\Documents\Projects\JbzdAutomat\JbzdAutomat\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\ShadeHero\Documents\Projects\JbzdAutomat\JbzdAutomat\bin\Debug\System.Xml.XPath.XmlDocument.dll
+C:\Users\ShadeHero\Documents\Projects\JbzdAutomat\JbzdAutomat\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\ShadeHero\Documents\Projects\JbzdAutomat\JbzdAutomat\bin\Debug\HtmlAgilityPack.xml
+C:\Users\ShadeHero\Documents\Projects\JbzdAutomat\JbzdAutomat\obj\x86\Debug\JbzdAutomat.csprojResolveAssemblyReference.cache
+C:\Users\ShadeHero\Documents\Projects\JbzdAutomat\JbzdAutomat\obj\x86\Debug\JbzdAutomat.exe
+C:\Users\ShadeHero\Documents\Projects\JbzdAutomat\JbzdAutomat\obj\x86\Debug\JbzdAutomat.pdb
