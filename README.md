@@ -1,0 +1,2 @@
+# JbzdAutomat
+Automatyczny Kradziej obrazków
